@@ -1,8 +1,8 @@
 Package.describe({
   name: 'jhohlfeld:round10',
-  version: '0.0.2',
+  version: '0.0.3',
   // Brief, one-line summary of the package.
-  summary: 'Fixes Math.round() by extending the Math object. Packaged from MDN\'s Math.round10() example.',
+  summary: 'Fixes Math.round() by extending the Math object.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/jhohlfeld/meteor-round10.git',
   // By default, Meteor will default to using README.md for documentation.
