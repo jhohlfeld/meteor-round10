@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jhohlfeld:round10',
-  version: '0.0.1',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
   summary: 'Fixes Math.round() by extending the Math object. Packaged from MDN\'s Math.round10() example.',
   // URL to the Git repository containing the source code for this package.
