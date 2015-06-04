@@ -2,7 +2,7 @@ Package.describe({
   name: 'jhohlfeld:round10',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: 'Brings a package that eases the pain of flawed floating point precision in javascript using a function from MDN.',
+  summary: 'Fixes flawed floating point precision in javascript using function from MDN.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/jhohlfeld/meteor-round10.git',
   // By default, Meteor will default to using README.md for documentation.
